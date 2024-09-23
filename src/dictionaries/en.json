@@ -1,0 +1,23 @@
+{
+  "server-component": {
+  "title": "Voice Mix - Play with Your Voice",
+  "maintitle": "Voice Mix", 
+    "description": "This is a site where you can experiment with your voice. It supports reverse playback, fast playback, and slow playback. No installation is required, and it's free.",
+    "sharetext": "A site where you can play with your voice. Give it a try! #VoiceMix",
+    "note": "※Audio is not saved.",
+    "record": "Record",
+    "stop": "Stop",
+    "play": "Play",
+    "reverse": "Reverse",
+    "fastForward": "Fast Forward",
+    "slowDown": "Slow Down",
+    "synthesize": "Synthesize",
+    "synthesize_en": "Synthesize (EN)",
+    "share": "Share this site",
+    "authorWebsite": "Author's Website",
+    "keywords": "voice, voice mix, reverse playback, voice synthesis, pitch change, Japanese, recording, synthesis",
+    "ogTitle": "Voice Mix - Play with Your Voice",
+    "ogDescription": "A site where you can enjoy reversing and changing the pitch of your voice."
+  }
+  }
+  

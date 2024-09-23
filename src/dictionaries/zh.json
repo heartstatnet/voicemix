@@ -1,0 +1,24 @@
+{
+  
+  "server-component": {
+  "title": "声音混合 - 玩转声音",
+  "maintitle": "声音混合",
+    "description": "这是一个可以用来实验声音的网站。支持逆向播放、快速播放和慢速播放。无需安装，完全免费。",
+    "sharetext": "一个可以玩弄你声音的网站。快来试试吧！ #VoiceMix",
+    "note": "※声音不会被保存。",
+    "record": "录音",
+    "stop": "停止",
+    "play": "播放",
+    "reverse": "倒放",
+    "fastForward": "快进",
+    "slowDown": "慢放",
+    "synthesize": "合成",
+    "synthesize_en": "合成（英语）",
+    "share": "分享这个网站",
+    "authorWebsite": "作者网站",
+  "keywords": "声音, 声音混合, 倒放, 语音合成, 音调变化, 日语, 录音, 合成",
+  "ogTitle": "Voice Mix - 玩转你的声音",
+  "ogDescription": "一个可以享受倒放和改变音调的声音网站。"
+  }
+}
+  

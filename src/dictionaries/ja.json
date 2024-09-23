@@ -1,0 +1,25 @@
+{
+  "server-component": {
+  "title": "ボイスミックス - 音声を使って遊ぼう",
+  "maintitle": "ボイスミックス",
+    "description": "音声を使って実験できるサイトです。逆再生、高速再生、低速再生に対応しています。インストール不要で、無料でご利用いただけます。",
+    "sharetext": "音声を使って遊べるサイトです。ぜひ遊んでみてね！ #VoiceMix",
+    "note": "※音声は保存されません。",
+    "record": "録音",
+    "stop": "停止",
+    "play": "再生",
+    "reverse": "逆再生",
+    "fastForward": "高速再生",
+    "slowDown": "低速再生",
+    "synthesize": "合成",
+    "synthesize_en": "合成(英)",
+    "share": "このサイトを共有",
+    "authorWebsite": "作者のウェブサイト",
+    "home": "ホーム",
+    "keywords": "音声, ボイスミックス, 逆再生, 音声合成, ピッチ変更, 日本語, 録音, 合成",
+    "robots": "index, follow",
+    "ogTitle": "ボイスミックス - 音声を使って遊ぼう",
+    "ogDescription": "音声を使って逆再生やピッチ変更を楽しめるサイトです。"
+  }
+}
+  

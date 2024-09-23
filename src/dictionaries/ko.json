@@ -1,0 +1,23 @@
+{ 
+  "server-component": {
+  "title": "보이스 믹스 - 음성을 가지고 놀아보세요",
+  "maintitle": "보이스 믹스", 
+    "description": "음성을 가지고 실험할 수 있는 사이트입니다. 역재생, 빠른 재생, 느린 재생을 지원합니다. 설치가 필요 없으며 무료로 이용하실 수 있습니다.",
+    "sharetext": "음성을 사용하여 놀 수 있는 사이트입니다. 꼭 시도해 보세요! #VoiceMix",
+    "note": "※음성은 저장되지 않습니다.",
+    "record": "녹음",
+    "stop": "정지",
+    "play": "재생",
+    "reverse": "역재생",
+    "fastForward": "빠르게 재생",
+    "slowDown": "느리게 재생",
+    "synthesize": "합성",
+    "synthesize_en": "합성(영어)",
+    "share": "이 사이트 공유하기",
+    "authorWebsite": "저자 웹사이트",
+  "keywords": "음성, 보이스 믹스, 역재생, 음성 합성, 피치 변경, 일본어, 녹음, 합성",
+  "ogTitle": "보이스 믹스 - 목소리로 놀아보세요",
+  "ogDescription": "목소리를 역재생하고 피치를 변경하는 것을 즐길 수 있는 사이트입니다."
+  }
+}
+  
