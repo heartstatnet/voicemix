@@ -19,7 +19,8 @@
     "keywords": "音声, ボイスミックス, 逆再生, 音声合成, ピッチ変更, 日本語, 録音, 合成",
     "robots": "index, follow",
     "ogTitle": "ボイスミックス - 音声を使って遊ぼう",
-    "ogDescription": "音声を使って逆再生やピッチ変更を楽しめるサイトです。"
+    "ogDescription": "音声を使って逆再生やピッチ変更を楽しめるサイトです。",
+    "OgImage": "https://voice-mix.heartstat.net/ja/logo192.png"
   }
 }
   

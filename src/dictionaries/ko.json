@@ -17,7 +17,8 @@
     "authorWebsite": "저자 웹사이트",
   "keywords": "음성, 보이스 믹스, 역재생, 음성 합성, 피치 변경, 일본어, 녹음, 합성",
   "ogTitle": "보이스 믹스 - 목소리로 놀아보세요",
-  "ogDescription": "목소리를 역재생하고 피치를 변경하는 것을 즐길 수 있는 사이트입니다."
+  "ogDescription": "목소리를 역재생하고 피치를 변경하는 것을 즐길 수 있는 사이트입니다.",
+    "OgImage": "https://voice-mix.heartstat.net/ko/logo192.png"
   }
 }
   

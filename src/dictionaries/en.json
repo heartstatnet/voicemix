@@ -17,7 +17,8 @@
     "authorWebsite": "Author's Website",
     "keywords": "voice, voice mix, reverse playback, voice synthesis, pitch change, Japanese, recording, synthesis",
     "ogTitle": "Voice Mix - Play with Your Voice",
-    "ogDescription": "A site where you can enjoy reversing and changing the pitch of your voice."
+    "ogDescription": "A site where you can enjoy reversing and changing the pitch of your voice.",
+    "OgImage": "https://voice-mix.heartstat.net/en/logo192.png"
   }
   }
   

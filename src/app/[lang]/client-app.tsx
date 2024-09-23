@@ -5,6 +5,7 @@ import React, { useState, useRef } from 'react';
 import { Container, Box, Typography, IconButton, Paper,Grid } from '@mui/material';
 import { Mic, Stop, PlayArrow, Replay, ArrowUpward, ArrowDownward, Share ,Chat, Home } from '@mui/icons-material';
 import { GoogleAnalytics } from '@next/third-parties/google';
+import GoogleAd from './googlead';
 
 let transcript = "";
 
@@ -267,9 +268,11 @@ export default function ClientApp({ dictionary }: { dictionary: any, lang: strin
   return ( 
     <>
         <>
-        <GoogleAnalytics gaId="" />
+        <GoogleAnalytics gaId="G-2Y4V9WLCR0" />
     </>
     <Container maxWidth="md">
+      
+    <GoogleAd slot="8215874976" />
         <Box my={4} textAlign="center">
           <Typography variant="h3" gutterBottom sx={{ textDecoration: 'underline' }}>
             {dictionary["server-component"]?.maintitle}
@@ -355,6 +358,8 @@ export default function ClientApp({ dictionary }: { dictionary: any, lang: strin
             </Grid>
           </Grid>
         </Box>
+        
+        <GoogleAd slot="8215874976" />
         <audio ref={audioRef} controls style={{ display: 'none' }}>
           <track kind="captions" />
           audio not supported

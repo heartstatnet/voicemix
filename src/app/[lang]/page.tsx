@@ -17,7 +17,7 @@ export default async function Page({ params: { lang } }: { params: { lang: Local
         <meta name="robots" content="index, follow" />
         <meta property="og:title" content={dictionary["server-component"]?.ogTitle} />
         <meta property="og:description" content={dictionary["server-component"]?.ogDescription} />
-        <meta property="og:image" content="https://voice-mix.heartstat.net/logo192.png" />
+        <meta property="og:image" content={dictionary["server-component"]?.OgImage}/>
         <meta property="og:url" content="https://voice-mix.heartstat.net" />
         <meta name="twitter:card" content="summary_large_image" />    
       <ClientApp dictionary={dictionary} lang={lang} />

@@ -18,7 +18,8 @@
     "authorWebsite": "作者网站",
   "keywords": "声音, 声音混合, 倒放, 语音合成, 音调变化, 日语, 录音, 合成",
   "ogTitle": "Voice Mix - 玩转你的声音",
-  "ogDescription": "一个可以享受倒放和改变音调的声音网站。"
+  "ogDescription": "一个可以享受倒放和改变音调的声音网站。",
+    "OgImage": "https://voice-mix.heartstat.net/zh/logo192.png"
   }
 }
   

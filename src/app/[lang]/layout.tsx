@@ -1,10 +1,7 @@
 import localFont from "next/font/local"; 
 import { i18n } from "@/i18n-config";
 import "./globals.css";
-
-
-
-
+import { GoogleAdScript } from "./googleads-script";
 export async function generateStaticParams() {
   return i18n.locales.map((locale) => ({ lang: locale }));
 }
@@ -31,10 +28,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-5272446316143834" crossOrigin="anonymous"></script>
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
-        {children}
+        <main>{children}</main>
+      <GoogleAdScript />
       </body>
     </html>
   );
