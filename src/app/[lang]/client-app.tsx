@@ -5,7 +5,6 @@ import React, { useState, useRef } from 'react';
 import { Container, Box, Typography, IconButton, Paper,Grid } from '@mui/material';
 import { Mic, Stop, PlayArrow, Replay, ArrowUpward, ArrowDownward, Share ,Chat, Home } from '@mui/icons-material';
 import { GoogleAnalytics } from '@next/third-parties/google';
-import GoogleAd from './googlead';
 
 let transcript = "";
 
