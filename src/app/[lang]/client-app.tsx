@@ -272,7 +272,6 @@ export default function ClientApp({ dictionary }: { dictionary: any, lang: strin
     </>
     <Container maxWidth="md">
       
-    <GoogleAd slot="8215874976" />
         <Box my={4} textAlign="center">
           <Typography variant="h3" gutterBottom sx={{ textDecoration: 'underline' }}>
             {dictionary["server-component"]?.maintitle}
@@ -359,7 +358,6 @@ export default function ClientApp({ dictionary }: { dictionary: any, lang: strin
           </Grid>
         </Box>
         
-        <GoogleAd slot="8215874976" />
         <audio ref={audioRef} controls style={{ display: 'none' }}>
           <track kind="captions" />
           audio not supported
